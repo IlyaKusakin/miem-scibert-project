@@ -13,7 +13,7 @@ MIEM SciBERT is designed for
 ## Model usage
 
 * Open [notebook with model usage example](https://drive.google.com/file/d/1UZVhmA9LHL6Zsji-_9i_eJILmjhEziQz/view?usp=sharing) at Google Colab
-* Or run **scibert_ru_usage.ipynb**  localy 
+* Or run [scibert_ru_usage.ipynb](https://github.com/IlyaKusakin/miem-scibert-project/blob/main/scibert_ru_usage.ipynb)  localy 
   1. Clone this repo, install requirements and run code in any IDE with ipynb support
   2. Run to install all necessary libraries
     ```
@@ -49,4 +49,4 @@ outputs=model(input_ids)
 MIEM SciBERT linguistic model was fine-tuned for [GRNTI](https://grnti.ru/) classification task (about 70 classes at 1st level and 400+ classes at 2nd level of rubricator). 
 
 * Detailed report about classification results [report](https://drive.google.com/drive/folders/1MbW6TUvDpnaRxBgdXOCHtzR1ohfLkiqr?usp=sharing) 
-* Data example of short scientific texts that was classified [subsample_texts_short.csv]
+* Data example of short scientific texts that was classified [subsample_texts_short.csv](https://github.com/IlyaKusakin/miem-scibert-project/blob/main/subsample_texts_short.csv)
