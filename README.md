@@ -50,3 +50,13 @@ MIEM SciBERT linguistic model was fine-tuned for [GRNTI](https://grnti.ru/) clas
 
 * Detailed report about classification results [report](https://drive.google.com/drive/folders/1MbW6TUvDpnaRxBgdXOCHtzR1ohfLkiqr?usp=sharing) 
 * Data example of short scientific texts that was classified [subsample_texts_short.csv](https://github.com/IlyaKusakin/miem-scibert-project/blob/main/subsample_texts_short.csv)
+
+## Contacts
+
+[a.romanov@hse.ru](https://cabinet.miem.hse.ru/#/project/371/team) - project manager
+
+[ikkusakin@miem.hse.ru](https://cabinet.miem.hse.ru/#/project/371/team) - researcher/app-developer
+
+[amtsurupa@miem.hse.ru](https://cabinet.miem.hse.ru/#/project/371/team) - researcher
+
+[avalmakaev@miem.hse.ru](https://cabinet.miem.hse.ru/#/project/371/team) - researcher
